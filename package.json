@@ -38,11 +38,11 @@
     "ipfs-http-client": "^49.0.4"
   },
   "scripts": {
-    "build": "set REACT_APP_NETWORK_NAME=ropsten&&react-scripts build",
+    "build": "react-scripts build",
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject",
     "ipfs": "yarn build && node scripts/ipfs.js",
-    "predeploy": "npm run build",
+    "predeploy": "set REACT_APP_NETWORK_NAME=ropsten&&npm run build",
     "start": "set REACT_APP_NETWORK_NAME=hardhat&&react-scripts start",
     "start:ropsten": "set REACT_APP_NETWORK_NAME=ropsten&&react-scripts start",
     "test": "react-scripts test"
