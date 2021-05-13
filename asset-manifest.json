@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/carbon-emissions-token-network/static/css/main.6569f3b6.chunk.css",
+    "main.js": "/carbon-emissions-token-network/static/js/main.ce0d192a.chunk.js",
+    "main.js.map": "/carbon-emissions-token-network/static/js/main.ce0d192a.chunk.js.map",
+    "runtime-main.js": "/carbon-emissions-token-network/static/js/runtime-main.ef148037.js",
+    "runtime-main.js.map": "/carbon-emissions-token-network/static/js/runtime-main.ef148037.js.map",
+    "static/css/2.cf62996a.chunk.css": "/carbon-emissions-token-network/static/css/2.cf62996a.chunk.css",
+    "static/js/2.4bf5202a.chunk.js": "/carbon-emissions-token-network/static/js/2.4bf5202a.chunk.js",
+    "static/js/2.4bf5202a.chunk.js.map": "/carbon-emissions-token-network/static/js/2.4bf5202a.chunk.js.map",
+    "index.html": "/carbon-emissions-token-network/index.html",
+    "precache-manifest.b067d80571727212695c4dde21f4ec39.js": "/carbon-emissions-token-network/precache-manifest.b067d80571727212695c4dde21f4ec39.js",
+    "service-worker.js": "/carbon-emissions-token-network/service-worker.js",
+    "static/css/2.cf62996a.chunk.css.map": "/carbon-emissions-token-network/static/css/2.cf62996a.chunk.css.map",
+    "static/css/main.6569f3b6.chunk.css.map": "/carbon-emissions-token-network/static/css/main.6569f3b6.chunk.css.map",
+    "static/js/2.4bf5202a.chunk.js.LICENSE.txt": "/carbon-emissions-token-network/static/js/2.4bf5202a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef148037.js",
+    "static/css/2.cf62996a.chunk.css",
+    "static/js/2.4bf5202a.chunk.js",
+    "static/css/main.6569f3b6.chunk.css",
+    "static/js/main.ce0d192a.chunk.js"
+  ]
+}
